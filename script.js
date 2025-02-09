@@ -126,7 +126,7 @@ fetch('crossroads.rbxlx').then(response => response.text()).then(function(data){
 })
 
 
-// Make the camera further from the cube so we can see it better
+// Make the camera further from the cube so we can see it better 
 /*
 const properties = v.getElementsByTagName("Properties")[0]
       const size = findin(properties.getElementsByTagName("Vector3"),"size")
