@@ -1,5 +1,2 @@
-look at this weird old project amazing right
-
-This is what ROBLOX would sound like if it was OPEN SOURCE
-
-Now available for preview on github pages! https://repositoriesnotrecomended.github.io/ROBLOS/
+# Offlimium RBXLX File Viewer
+Powered by RepositoriesNotRecomended/ROBLOS
