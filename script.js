@@ -22,6 +22,7 @@ camera.keysLeft = [65]; // A
 camera.keysRight = [68]; // D
 camera.keysUpward = [69]; // E
 camera.keysDownward = [81]; // Q
+camera.keysSpace = [69]; // Space, possibly? I'm bad at babylon.
 camera.speed = 100;
 camera.inertia = 0.1;
 camera.angularSensibility = 200;
